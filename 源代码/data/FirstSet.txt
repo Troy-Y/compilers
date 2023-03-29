@@ -1,0 +1,17 @@
+FIRST(A)={c,d,l,n}
+FIRST(B)={c,d,l,n}
+FIRST(C)={0,m}
+FIRST(D)={c,d,l,n}
+FIRST(E)={0,@,c,d,l,n,w}
+FIRST(G)={0}
+FIRST(I)={k}
+FIRST(M)={i}
+FIRST(N)={0}
+FIRST(P)={*}
+FIRST(Q)={+,-}
+FIRST(R)={@,r}
+FIRST(T)={c,d,l,n}
+FIRST(W)={w}
+FIRST(X)={0}
+FIRST(Y)={0,1}
+FIRST(Z)={;}

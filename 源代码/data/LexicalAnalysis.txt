@@ -1,0 +1,13 @@
+#include<iostream>
+int main(){
+	int a;
+	float b;
+	double c;
+	while(1){
+		a=a+1+5i;
+		b=b-6.8;
+		c=c+2e;
+	}
+	
+	return 1;	
+}

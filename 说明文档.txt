@@ -1,0 +1,11 @@
+源代码/data/LexicalFormula.txt是词法分析时使用的三型文法。
+源代码/data/LexicalAnalysis.txt是需要词法分析和语法分析的源代码文件。
+源代码/data/LexicalOutput.txt是为后续做语法分析的中间文件。
+源代码/data/GrammarFormula.txt是语法分析时使用的二型文法。
+源代码/data/FirstSet.txt是FIRST集。
+源代码/data/ActionTable.txt为分析表。
+源代码/data/ItemSet.txt是项目集族。
+源代码/data/AnalyzeProcess.txt是分析过程。
+
+运行lexical.cpp文件可对LexicalAnalysis.txt中的源代码进行词法分析。
+运行grammar.cpp文件可LexicalAnalysis.txt中的源代码进行语法分析。
